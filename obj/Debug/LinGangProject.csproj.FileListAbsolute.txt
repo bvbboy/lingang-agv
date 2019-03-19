@@ -1,0 +1,29 @@
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\bin\Debug\LinGangProject.exe.config
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\bin\Debug\LinGangProject.exe
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\bin\Debug\LinGangProject.pdb
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.exe
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.pdb
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\临港测试\LinGangProject\obj\Debug\LinGangProject.Form1.resources
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\LinGangProject.exe.config
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\LinGangProject.exe
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\LinGangProject.pdb
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\Newtonsoft.Json.pdb
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\Newtonsoft.Json.xml
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.Form1.resources
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.Properties.Resources.resources
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.csproj.GenerateResource.Cache
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.csproj.CoreCompileInputs.cache
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.exe
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.pdb
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.csprojAssemblyReference.cache
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\Interop.DBCOMMLib.dll
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.csproj.ResolveComReference.cache
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\LinGangProject.csproj.CopyComplete
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\Interop.DBCOMMLib.dll
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\bin\Debug\AxInterop.DBCOMMLib.dll
+D:\WuGuangyu\Year5B\Lab\王少伟 编通讯程序 VS2013 带注释程序 form1模块\王少伟 编通讯程序 VS2013 带注释程序 form1模块\LinGangProject\obj\Debug\AxInterop.DBCOMMLib.dll
